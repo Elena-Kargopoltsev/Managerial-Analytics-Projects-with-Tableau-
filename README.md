@@ -15,13 +15,13 @@
 
 3. Managerial Analytics Projects Madison Center Hospital
 
-  Part 1. Care Score VS Waiting Time
+   Part 1. Care Score VS Waiting Time
 
 
    To view the Tableau dashboards, visit my profile: https://public.tableau.com/app/profile/elena.kargopoltsev/viz/Part_2_Visuals_16160375475430/Dashboard1
 
 
-Part 2. Consequences of Reducing Waiting Times in the Madison Center Hospital
+   Part 2. Consequences of Reducing Waiting Times in the Madison Center Hospital
 
 
    To view the Tableau dashboards, visit my profile: https://public.tableau.com/app/profile/elena.kargopoltsev/viz/WaitingTimeOverview/Dashboard1
