@@ -1,5 +1,6 @@
 # Managerial Analytics Projects with Tableau 
 
+1. Tour de France Overview
 
 The project's goal was to create innovative and interactive Tableau dashboards
 focused on analyzing the activity of the countries of the world in the Tour de France
