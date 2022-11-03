@@ -3,7 +3,7 @@
 1. Tour de France Overview
 
    The project aims to analyze the activity participation of the world's countries
-   in the Tour de France cycling from its inception in 1903 to 2016
+   in the Tour de France cycling from its beginning in 1903 to 2016
    by creating an interactive Tableau dashboard. 
 
    To view the Tableau dashboards, visit my profile: https://public.tableau.com/app/profile/elena.kargopoltsev/viz/Part2_Visualizations/TourdeFranceOverview
